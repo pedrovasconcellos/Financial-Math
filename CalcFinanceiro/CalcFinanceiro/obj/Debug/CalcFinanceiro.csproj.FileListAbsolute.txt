@@ -1,0 +1,10 @@
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\bin\Debug\CalcFinanceiro.dll
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\bin\Debug\CalcFinanceiro.pdb
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\obj\Debug\CalcFinanceiro.dll
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\obj\Debug\CalcFinanceiro.pdb
+C:\Users\pedro.vasconcellos\Documents\Visual Studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\obj\Debug\CalcFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\bin\Debug\CalcFinanceiro.dll
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\bin\Debug\CalcFinanceiro.pdb
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\obj\Debug\CalcFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\obj\Debug\CalcFinanceiro.dll
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\obj\Debug\CalcFinanceiro.pdb

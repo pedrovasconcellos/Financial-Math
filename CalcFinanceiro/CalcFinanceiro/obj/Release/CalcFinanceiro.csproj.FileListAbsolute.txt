@@ -1,0 +1,8 @@
+C:\Users\pedro.vasconcellos\Documents\Visual Studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\bin\Release\CalcFinanceiro.dll
+C:\Users\pedro.vasconcellos\Documents\Visual Studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\bin\Release\CalcFinanceiro.pdb
+C:\Users\pedro.vasconcellos\Documents\Visual Studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\obj\Release\CalcFinanceiro.dll
+C:\Users\pedro.vasconcellos\Documents\Visual Studio 2015\Projects\CalcFinanceiro\CalcFinanceiro\obj\Release\CalcFinanceiro.pdb
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\bin\Release\CalcFinanceiro.dll
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\bin\Release\CalcFinanceiro.pdb
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\obj\Release\CalcFinanceiro.dll
+C:\Users\pedro.vasconcellos\Dropbox\DLLs Criadas\CalcFinanceiro\CalcFinanceiro\obj\Release\CalcFinanceiro.pdb
